@@ -1,0 +1,18 @@
+﻿<Window x:Class="CubeTrackingRFID.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cube Tracking Game" Height="450" Width="500" MinHeight="450" MaxHeight="450" MinWidth="500" MaxWidth="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" MinHeight="52" />
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500" />
+        </Grid.ColumnDefinitions>
+
+        <Button Name="btnConnect" Click="Button_Click" Content="START GAME" FontSize="35" Width="290" Height="140"  VerticalAlignment="Bottom" Margin="105,0,105,200.6" Grid.RowSpan="2"/>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="WrapWithOverflow" Grid.Row="1" FontSize="25" Foreground="#FF1234E8" Margin="45,34.2,48,33.6" Width="407"><Run/><LineBreak/><Run Text="RFID-Based Cube Tracking Module "/><LineBreak/><Run Text="Use Case 3 "/><Run Text="- "/><Run Text="BabyRobot EU Project "/><LineBreak/><Run Text="University of Hertfordshire - UK"/></TextBlock>
+
+    </Grid>
+</Window>

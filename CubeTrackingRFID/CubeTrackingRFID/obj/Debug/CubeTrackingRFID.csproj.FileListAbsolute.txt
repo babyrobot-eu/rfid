@@ -1,0 +1,40 @@
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.exe.config
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\MainWindow.baml
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\MainWindow.g.cs
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\App.g.cs
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID_MarkupCompile.cache
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.g.resources
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.Properties.Resources.resources
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csproj.GenerateResource.Cache
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.exe
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.pdb
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.exe
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.pdb
+C:\Users\Abolfazl\Desktop\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csprojResolveAssemblyReference.cache
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.exe.config
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.exe
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.pdb
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.exe
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.pdb
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csprojResolveAssemblyReference.cache
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\MainWindow.baml
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\MainWindow.g.cs
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\App.g.cs
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID_MarkupCompile.cache
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.g.resources
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.Properties.Resources.resources
+C:\Users\Abolfazl\OneDrive - University of Hertfordshire\MY-CODES\Robotic-Week\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csproj.GenerateResource.Cache
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.exe.config
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.exe
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\bin\Debug\CubeTrackingRFID.pdb
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\MainWindow.baml
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\MainWindow.g.cs
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\App.g.cs
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID_MarkupCompile.cache
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.g.resources
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.Properties.Resources.resources
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csproj.GenerateResource.cache
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csproj.CoreCompileInputs.cache
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.csproj.CopyComplete
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.exe
+C:\Users\az16aag\Desktop\CubeTrackingRFID\CubeTrackingRFID\obj\Debug\CubeTrackingRFID.pdb
